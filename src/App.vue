@@ -60,7 +60,8 @@
 </template>
 
 <script>
-import data from "./utils/data";
+// import data from "./utils/data";
+import data from './utils/level.json';
 export default {
   name: "App",
   data() {
